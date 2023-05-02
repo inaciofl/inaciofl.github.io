@@ -40839,7 +40839,7 @@ r=s.style
 r.width="100%"
 r=s.style
 r.border="none"
-s.src="assets/bitmovin.html"
+s.src="assets/assets/bitmovin.html"
 $.aqQ()
 $.uM().Qs("iframeElement",new A.agz(this),!0)
 this.aV()},
